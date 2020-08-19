@@ -4,7 +4,7 @@
 基于weigits2excel_git, 进行权重并行单元发射实验．   
 
 目标权重：/home/aiden00/abwu_workspace/yolov4best/yolov4.best.0   
-目标配置文件：/home/aiden00/abwu_workspace/yolov4best/yolov4.cfg     　
+目标配置文件：/home/aiden00/abwu_workspace/yolov4best/yolov4.cfg  
 V4-prune9  Map: 82.71％  IOU: 77.11%  Sparsity: 93.34%  v14(add pl2)   
 
 以第157层：1024*512*3*3为例,    
